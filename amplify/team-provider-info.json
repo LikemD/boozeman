@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-boozeman-dev-213933-authRole",
+      "UnauthRoleArn": "arn:aws:iam::826878626848:role/amplify-boozeman-dev-213933-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::826878626848:role/amplify-boozeman-dev-213933-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-boozeman-dev-213933-deployment",
+      "UnauthRoleName": "amplify-boozeman-dev-213933-unauthRole",
+      "StackName": "amplify-boozeman-dev-213933",
+      "StackId": "arn:aws:cloudformation:us-east-1:826878626848:stack/amplify-boozeman-dev-213933/07bdd270-5252-11ed-b3dc-0a2bb50245cd",
+      "AmplifyAppId": "d1yx449x59uu6f"
+    }
+  }
+}
